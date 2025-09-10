@@ -106,9 +106,6 @@ print(response.json())
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -117,13 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Facebook Research for FAISS
 - Streamlit and FastAPI communities
 
-## 📞 Support
 
-If you encounter any issues or have questions, please:
-1. Check the [Issues](https://github.com/your-username/empathybot-[your-initials]/issues) page
-2. Create a new issue with detailed description
-3. Contact the development team
-
----
-
-**Built with ❤️ for emotional AI applications**
