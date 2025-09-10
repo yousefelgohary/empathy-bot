@@ -1,0 +1,16 @@
+
+
+```txt
+streamlit
+fastapi
+uvicorn[standard]
+transformers
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+nltk
+datasets
+huggingface_hub
+pyngrok
+tqdm
